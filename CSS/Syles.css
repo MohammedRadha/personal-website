@@ -1,0 +1,152 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 7rem;
+    color: #66BFBF;
+    line-height: 3;
+}
+
+hr{
+    border-color: #EAF6F6;
+    border-style: dotted none none;
+    border-top-style:  5px dotted;
+    height: 5px;
+    width: 5%;
+    border-width: 7px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    line-height: 3;
+    clear: left;
+}
+
+h2{
+    font-family: 'Montserrat', serif;
+    font-size:2.5rem ;
+    color: #66BFBF
+    ;
+}
+
+h3{
+    font-family: 'Montserrat', serif;
+    color: #11999E;
+}
+
+
+.div1 {
+    background-color: #EAF6F6;
+    
+}
+
+
+.div2 {
+    
+    
+}
+
+.div3 {
+    background-color:#66BFBF;
+    font-family: 'Montserrat', serif;
+    font-weight: bolder;
+    
+}
+
+.profile{
+    padding: 100px;
+}
+.bottom_cloud{ 
+    position: absolute;
+}
+.top_cloud{ 
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.skill_pic{
+    width: 25%;
+    padding-bottom: 100px ;
+    float: left;
+    margin-right: 30px;
+}
+
+.profile_pic{
+    width: 15%;
+    height: 15%;
+    padding-bottom: 50PX;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skills{
+    padding-top: 100px;
+}
+
+.profile{
+    margin: 0;
+}
+
+.mountain{
+    padding-bottom: 100px;
+}
+.sub{
+    font-weight: normal;
+}
+.footer-link{
+    display: inline-block;
+    color: #11999E;
+    margin: 20px 20px 0 20px;
+    
+}
+
+.copyright{
+    color: #EAF6F6;
+}
+
+.BUTTON_YMX {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+    background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px;
+    border: solid #66BFBF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin: 20px;
+    }
+    
+    .BUTTON_YMX:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
